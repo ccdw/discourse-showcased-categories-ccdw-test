@@ -1,7 +1,7 @@
 {
-  "name": "discourse-showcased-categories",
+  "name": "discourse-showcased-categories-ccdw-test",
   "version": "1.0.0",
-  "repository": "https://github.com/discourse/discourse-showcased-categories",
+  "repository": "https://github.com/discourse/discourse-showcased-categories-ccdw-test",
   "author": "Discourse",
   "license": "MIT",
   "devDependencies": {

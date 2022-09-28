@@ -11,10 +11,6 @@ feed_one_category:
   list_type: category
   default: ""
   description: "Choose only ONE category for the Feed One topic list"
-feed_one_color:
-  type: string
-  default: ""
-  description: "Category Colour"
 feed_two_title:
   type: string
   default: "Custom List Two"
@@ -24,10 +20,6 @@ feed_two_category:
   list_type: category
   default: ""
   description: "Choose only ONE category for the Feed Two topic list"
-feed_two_color:
-  type: string
-  default: ""
-  description: "Category Colour"
 max_list_length:
   type: integer
   default: 5

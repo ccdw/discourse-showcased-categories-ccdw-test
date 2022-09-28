@@ -1,5 +1,5 @@
 <div id={{catId}} style='background: #{{category.color}}; color:#{{category.text_color}}' class="header-wrapper">
-  <a href={{moreHref}}><h2>{{title}}</h2></a> 
+  <a href={{moreHref}}><h2 style="color:#{{category.text_color}}" >{{title}}</h2></a> 
 
   {{#d-button action=createTopic class="btn-primary btn"}}
     {{theme-i18n "showcased_categories.new_post"}}
